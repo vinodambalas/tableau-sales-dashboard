@@ -57,8 +57,8 @@ Include images of your dashboard here:
 
 ### **🚀 About Me**
 👋 Hi, I'm **Vinod Ambala**, a **Software Developer** passionate about **data visualization and analytics**. Connect with me on:  
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Portfolio](https://yourportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/vinod-ambala/)  
+
 
 ---
 
